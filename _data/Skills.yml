@@ -1,0 +1,16 @@
+subject: Skills
+listing-order: 3
+icon: "/assets/img/screwdriver-wrench.svg"
+contents:
+  - title: Programming Languages
+    description: 
+     - JavaScript, Python, Clojure, Typescript (Beginner) 
+  - title: Frameworks & Libraries
+    description:
+      - ExpressJS, ReactJS, Ring, NextJS (Beginner)
+  - title: Databases
+    description:
+      - MongoDB, PostgreSQL, Clickhouse
+  - title: Other
+    description:
+      - NodeJS, Git, Postman, Bruno, Docker, AWS, Agile        

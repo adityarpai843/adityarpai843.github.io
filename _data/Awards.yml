@@ -1,0 +1,7 @@
+subject: Achievements
+listing-order: 5
+icon: "/assets/img/trophy.svg"
+contents:
+  - title: Customer Appreciation Award by Tata Elxsi
+    description: Awarded Customer Appreciation Award by Tata Elxsi for swiftly mastering Clojure and
+                 demonstrating strong ownership of work items.

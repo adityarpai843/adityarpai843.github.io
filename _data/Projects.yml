@@ -1,0 +1,25 @@
+subject: Projects
+listing-order: 2
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: KDE Localization
+    description: 
+      - Contributed as an early member to KDE localization open-source project, enabling
+        schools across Kerala to adopt Linux with Malayalam language support.
+      - "Technology Used: Git"
+  - title: "LynkSync ([https://github.com/lynksync](https://github.com/lynksync))"
+    description: 
+      - I’ve so many links with me that i use on a daily basis some in whatsapp, some in laptop browser brave, 
+        some in chrome, some in mobile.
+      - Idea here is to have all URLS synced wherever i access them from.
+      - "Technology Used: Typescript, Python, NextJS"
+  - title: "SkillJedi ([https://gitlab.com/skilljedi](https://gitlab.com/skilljedi))"
+    description: 
+      - E-learning platform using MERN stack that allows users to post courses from varieties of sources like blog, video etc
+      - Project was showcased in Cisco's Hackathon (See Project Intern in experience)
+      - "Technology Used: Javascript,MongoDB, Express, React, NodeJS"
+  - title: "Notes ([https://github.com/adityarpai843/mynote-backend](https://github.com/adityarpai843/mynote-backend))"
+    description: 
+      - A simple note taking app. [UI](https://github.com/adityarpai843/mynote-frontend) is also available. 
+      - An exercise to learn Clojure
+      - "Technology Used: Clojure,Leiningen, Pedestal, MYSQL"        

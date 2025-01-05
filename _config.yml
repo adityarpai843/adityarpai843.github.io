@@ -1,0 +1,25 @@
+title: Aditya R Pai - Fullstack Enginer
+profile_img: /assets/img/profile.png
+icon_img: /assets/img/icon.webp
+
+name: "Aditya R Pai"
+job: "Backend Engineer"
+
+address: Thrissur, Kerala, India
+email: adityarpai843@gmail.com
+linkedin_username: adityarpai843
+github_username: adityarpai843
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl:
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
